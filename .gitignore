@@ -1,0 +1,6 @@
+# System File
+.DS_Store
+*/.DS_Store
+.idea
+*/.idea
+.vscode
