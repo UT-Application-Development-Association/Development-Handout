@@ -10,6 +10,9 @@ List of contents:
 
     - [Advanced Usage](https://github.com/UT-Applicataion-Development-Association/Contribution-Guidelines/blob/master/Git-advanced.md)
         - Written By Frank
+    
+    - [Git Secret](Git/GitSecret.md)
+        - Written By Dino
 
 - Backend:
     - [REST API](Backend/REST.md)
