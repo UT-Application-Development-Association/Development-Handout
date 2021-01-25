@@ -1,9 +1,6 @@
 # Git-Secret
 This post is about giving a introduction to git secret which is a bash tool for encrypting and protecting files in a git repository
 
-List of contents:
-    - []
-
 ## GPG
 Git secret is using **gpg** an open source project for encrypting files.
 
