@@ -13,6 +13,9 @@ List of contents:
     
     - [Git Secret](Git/GitSecret.md)
         - Written By Dino
+    
+    - [Git Ignore & Github files](Git/GitIgnore.md)
+        - Written By Dino
 
 - Backend:
     - [REST API](Backend/REST.md)
