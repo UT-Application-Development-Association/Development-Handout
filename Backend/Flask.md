@@ -1,5 +1,5 @@
 # Flask
-Flask is a lightweight framework for backend development in Python.  This is a short introduction to the mandatory flask components you will use in the development.  I **strongly recommend** people read another [wiki](https://github.com/UT-Applicataion-Development-Association/st-backend/wiki/REST-API) before reading the remainder of this post.
+Flask is a lightweight framework for backend development in Python.  This is a short introduction to the mandatory flask components you will use in the development.  I **strongly recommend** people read another [wiki](https://github.com/UT-Applicataion-Development-Association/Development-Handout/blob/master/Backend/REST.md) before reading the remainder of this post.
 
 Here is the list of contents in this post:
 - [Server](#Server)
